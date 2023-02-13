@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inviting-list-react.git/static/css/main.cd5d95a0.css",
+    "main.js": "/inviting-list-react.git/static/js/main.bc3e88e4.js",
+    "static/js/787.244bdca3.chunk.js": "/inviting-list-react.git/static/js/787.244bdca3.chunk.js",
+    "index.html": "/inviting-list-react.git/index.html",
+    "main.cd5d95a0.css.map": "/inviting-list-react.git/static/css/main.cd5d95a0.css.map",
+    "main.bc3e88e4.js.map": "/inviting-list-react.git/static/js/main.bc3e88e4.js.map",
+    "787.244bdca3.chunk.js.map": "/inviting-list-react.git/static/js/787.244bdca3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5d95a0.css",
+    "static/js/main.bc3e88e4.js"
+  ]
+}
