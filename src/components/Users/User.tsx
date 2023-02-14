@@ -1,5 +1,6 @@
 import React from "react";
-
+import svgPlus from "../../assets/plus.svg";
+import svgMinus from "../../assets/minus.svg";
 type UserProps = {
   id: number;
   email: string;
@@ -38,7 +39,7 @@ export const User: React.FC<UserProps> = ({
       <img
         onClick={() => onClickInvite(id)}
         className="action"
-        src={`/assets/${isInvited ? "minus" : "plus"}.svg`}
+        src={isInvited ? svgMinus : svgPlus}
         alt="Action"
       />
     </li>
