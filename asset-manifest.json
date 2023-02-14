@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/inviting-list-react/static/css/main.cd5d95a0.css",
-    "main.js": "/inviting-list-react/static/js/main.c735d0ee.js",
+    "main.js": "/inviting-list-react/static/js/main.25023352.js",
     "static/js/787.244bdca3.chunk.js": "/inviting-list-react/static/js/787.244bdca3.chunk.js",
+    "static/media/success.svg": "/inviting-list-react/static/media/success.a15b9a8a62a5d415b97db4047d9e71e6.svg",
     "index.html": "/inviting-list-react/index.html",
+    "static/media/plus.svg": "/inviting-list-react/static/media/plus.1931cf72fa3019e723886b136ffe0eee.svg",
+    "static/media/minus.svg": "/inviting-list-react/static/media/minus.0fd6569cb150c7c7cf827f99ecbebc5a.svg",
     "main.cd5d95a0.css.map": "/inviting-list-react/static/css/main.cd5d95a0.css.map",
-    "main.c735d0ee.js.map": "/inviting-list-react/static/js/main.c735d0ee.js.map",
+    "main.25023352.js.map": "/inviting-list-react/static/js/main.25023352.js.map",
     "787.244bdca3.chunk.js.map": "/inviting-list-react/static/js/787.244bdca3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd5d95a0.css",
-    "static/js/main.c735d0ee.js"
+    "static/js/main.25023352.js"
   ]
 }
